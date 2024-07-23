@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/PhonePhobia/static/css/main.6a1dcd8d.css",
-    "main.js": "/PhonePhobia/static/js/main.5afa7cd8.js",
-    "static/js/453.51e1b97e.chunk.js": "/PhonePhobia/static/js/453.51e1b97e.chunk.js",
-    "index.html": "/PhonePhobia/index.html",
-    "main.6a1dcd8d.css.map": "/PhonePhobia/static/css/main.6a1dcd8d.css.map",
-    "main.5afa7cd8.js.map": "/PhonePhobia/static/js/main.5afa7cd8.js.map",
-    "453.51e1b97e.chunk.js.map": "/PhonePhobia/static/js/453.51e1b97e.chunk.js.map"
+    "main.css": "/static/css/main.6a1dcd8d.css",
+    "main.js": "/static/js/main.6229336e.js",
+    "static/js/453.51e1b97e.chunk.js": "/static/js/453.51e1b97e.chunk.js",
+    "index.html": "/index.html",
+    "main.6a1dcd8d.css.map": "/static/css/main.6a1dcd8d.css.map",
+    "main.6229336e.js.map": "/static/js/main.6229336e.js.map",
+    "453.51e1b97e.chunk.js.map": "/static/js/453.51e1b97e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6a1dcd8d.css",
-    "static/js/main.5afa7cd8.js"
+    "static/js/main.6229336e.js"
   ]
 }
