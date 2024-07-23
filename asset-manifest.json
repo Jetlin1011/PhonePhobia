@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Jetlin1011/PhonePhobia.git/static/css/main.6a1dcd8d.css",
-    "main.js": "/Jetlin1011/PhonePhobia.git/static/js/main.da58f639.js",
-    "static/js/453.51e1b97e.chunk.js": "/Jetlin1011/PhonePhobia.git/static/js/453.51e1b97e.chunk.js",
-    "index.html": "/Jetlin1011/PhonePhobia.git/index.html",
-    "main.6a1dcd8d.css.map": "/Jetlin1011/PhonePhobia.git/static/css/main.6a1dcd8d.css.map",
-    "main.da58f639.js.map": "/Jetlin1011/PhonePhobia.git/static/js/main.da58f639.js.map",
-    "453.51e1b97e.chunk.js.map": "/Jetlin1011/PhonePhobia.git/static/js/453.51e1b97e.chunk.js.map"
+    "main.css": "/PhonePhobia/static/css/main.6a1dcd8d.css",
+    "main.js": "/PhonePhobia/static/js/main.5afa7cd8.js",
+    "static/js/453.51e1b97e.chunk.js": "/PhonePhobia/static/js/453.51e1b97e.chunk.js",
+    "index.html": "/PhonePhobia/index.html",
+    "main.6a1dcd8d.css.map": "/PhonePhobia/static/css/main.6a1dcd8d.css.map",
+    "main.5afa7cd8.js.map": "/PhonePhobia/static/js/main.5afa7cd8.js.map",
+    "453.51e1b97e.chunk.js.map": "/PhonePhobia/static/js/453.51e1b97e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6a1dcd8d.css",
-    "static/js/main.da58f639.js"
+    "static/js/main.5afa7cd8.js"
   ]
 }
