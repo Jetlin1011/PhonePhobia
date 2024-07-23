@@ -1,0 +1,13 @@
+.icon{
+  
+    font-family: "Playwrite NL", cursive;
+    font-optical-sizing: auto;
+    font-weight:26px;
+    font-style: normal;
+  }
+.phonediv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* margin-left: 32px; */
+}

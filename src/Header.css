@@ -1,0 +1,17 @@
+.icon{
+  
+        font-family: "Playwrite NL", cursive;
+        font-optical-sizing: auto;
+        font-weight:26px;
+        font-style: normal;
+      }
+@media(max-width:425px){
+    span{
+        font-size: .6rem;
+        padding: 0;
+    }
+    .icon{
+        font-size: 10px;
+
+    }
+}

@@ -1,0 +1,460 @@
+{
+  "phones": [
+    {
+      "id": 1,
+      "brand": "Apple",
+      "model": "iPhone 14 Pro",
+      "release_year": 2022,
+      "specifications": {
+        "display": "6.1-inch OLED",
+        "processor": "A16 Bionic",
+        "camera": "Triple 12 MP",
+        "battery": "3095 mAh",
+        "storage": "128GB/256GB/512GB/1TB",
+        "os": "iOS 16"
+      },
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.pm1A2l7bjyPZr2RRXTejpwHaE8%26pid%3DApi&f=1&ipt=fe4a0bf10407d883899facb34049e79188a3d930e19308911c30da6cb1b047a3&ipo=images",
+      "description": "The iPhone 14 Pro features an advanced triple-camera system, a new A16 Bionic chip, and a sleek design.  ",
+      "reviews": [
+        {
+          "reviewer": "John Doe",
+          "rating": 5,
+          "comment": "Outstanding performance and camera quality!. The Phone's in-hand feel is awsome and the body is so rigid, it had fell from my hands many time and thank god! it didn't even had a small scratch. The phone is super smooth and have a decent battery"
+        },
+        {
+          "reviewer": "Jane Smith",
+          "rating": 4,
+          "comment": "Great phone, but a bit expensive."
+        },
+        {
+          "reviewer": "Sam Wilson",
+          "rating": 5,
+          "comment": "The A16 Bionic chip is incredibly fast."
+        },
+        {
+          "reviewer": "Emily Davis",
+          "rating": 4,
+          "comment": "Love the new design and features."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "brand": "Samsung",
+      "model": "Galaxy S23 Ultra",
+      "release_year": 2023,
+      "specifications": {
+        "display": "6.8-inch AMOLED",
+        "processor": "Snapdragon 8 Gen 2",
+        "camera": "Quad 108 MP",
+        "battery": "5000 mAh",
+        "storage": "128GB/256GB/512GB/1TB",
+        "os": "Android 13"
+      },
+      "image": "https://images.unsplash.com/photo-1707438095940-1eee18e85400?q=80&w=1931&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "The Galaxy S23 Ultra boasts a stunning AMOLED display, a powerful quad-camera setup, and long-lasting battery life.",
+      "reviews": [
+        {
+          "reviewer": "Mike Brown",
+          "rating": 5,
+          "comment": "The best phone I've ever used!"
+        },
+        {
+          "reviewer": "Sara Lee",
+          "rating": 4,
+          "comment": "Amazing camera and display."
+        },
+        {
+          "reviewer": "Alex Johnson",
+          "rating": 5,
+          "comment": "Battery life is fantastic."
+        },
+        {
+          "reviewer": "Jessica Green",
+          "rating": 3,
+          "comment": "Great phone but very pricey."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "brand": "Google",
+      "model": "Pixel 7 Pro",
+      "release_year": 2022,
+      "specifications": {
+        "display": "6.7-inch OLED",
+        "processor": "Google Tensor G2",
+        "camera": "Triple 50 MP",
+        "battery": "5000 mAh",
+        "storage": "128GB/256GB/512GB",
+        "os": "Android 13"
+      },
+      "image": "https://images.unsplash.com/photo-1669888940542-bf597f76ef39?q=80&w=1769&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "The Pixel 7 Pro offers an excellent camera experience with Google's Tensor G2 chip and a high-resolution display.",
+      "reviews": [
+        {
+          "reviewer": "Olivia Brown",
+          "rating": 5,
+          "comment": "Camera quality is top-notch!"
+        },
+        {
+          "reviewer": "Ethan Williams",
+          "rating": 4,
+          "comment": "Smooth performance and great battery life."
+        },
+        {
+          "reviewer": "Sophia Johnson",
+          "rating": 5,
+          "comment": "The best Pixel phone yet."
+        },
+        {
+          "reviewer": "Mason Martinez",
+          "rating": 3,
+          "comment": "Good phone but lacks some features."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "brand": "OnePlus",
+      "model": "OnePlus 11",
+      "release_year": 2023,
+      "specifications": {
+        "display": "6.55-inch Fluid AMOLED",
+        "processor": "Snapdragon 8 Gen 2",
+        "camera": "Triple 50 MP",
+        "battery": "4500 mAh",
+        "storage": "128GB/256GB",
+        "os": "Android 13"
+      },
+      "image": "https://oasis.opstatics.com/content/dam/oasis/page/2023/eu/11-concept/4pc.jpg",
+      "description": "The OnePlus 11 combines high performance with a smooth Fluid AMOLED display and a versatile camera system.",
+      "reviews": [
+        {
+          "reviewer": "Liam Clark",
+          "rating": 5,
+          "comment": "Excellent performance and display."
+        },
+        {
+          "reviewer": "Emma Lewis",
+          "rating": 4,
+          "comment": "Great value for the price."
+        },
+        {
+          "reviewer": "Noah Robinson",
+          "rating": 5,
+          "comment": "Battery life is impressive."
+        },
+        {
+          "reviewer": "Ava Walker",
+          "rating": 3,
+          "comment": "Good phone but the camera could be better."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "brand": "Xiaomi",
+      "model": "Mi 12 Pro",
+      "release_year": 2022,
+      "specifications": {
+        "display": "6.73-inch AMOLED",
+        "processor": "Snapdragon 8 Gen 1",
+        "camera": "Triple 50 MP",
+        "battery": "4600 mAh",
+        "storage": "128GB/256GB",
+        "os": "Android 12"
+      },
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.Ib6ozFR22MBca4lztdGWrQHaEK%26pid%3DApi&f=1&ipt=c7f0f688b4a60c37b9f340ed28253125d58e333d9930073c40eca78cb6dabd22&ipo=images",
+      "description": "The Xiaomi Mi 12 Pro features a large AMOLED display, a powerful Snapdragon processor, and a robust camera system.",
+      "reviews": [
+        {
+          "reviewer": "Benjamin Hall",
+          "rating": 5,
+          "comment": "Incredible display and performance."
+        },
+        {
+          "reviewer": "Charlotte King",
+          "rating": 4,
+          "comment": "Great phone but MIUI needs improvement."
+        },
+        {
+          "reviewer": "Henry Wright",
+          "rating": 5,
+          "comment": "Battery life is very good."
+        },
+        {
+          "reviewer": "Amelia Lopez",
+          "rating": 3,
+          "comment": "Good phone but camera needs work."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "brand": "Sony",
+      "model": "Xperia 1 IV",
+      "release_year": 2022,
+      "specifications": {
+        "display": "6.5-inch OLED",
+        "processor": "Snapdragon 8 Gen 1",
+        "camera": "Triple 12 MP",
+        "battery": "5000 mAh",
+        "storage": "256GB",
+        "os": "Android 12"
+      },
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.H131YUq8_2E2z2LZOxnqZQHaE8%26pid%3DApi&f=1&ipt=042a5081e6a37c1a7dd8a98e7983d55b14be3984c2a4786ff996292da32cc4cc&ipo=images",
+      "description": "The Sony Xperia 1 IV offers a stunning OLED display, advanced camera features, and a sleek design.",
+      "reviews": [
+        {
+          "reviewer": "Elijah Young",
+          "rating": 5,
+          "comment": "Amazing display and camera."
+        },
+        {
+          "reviewer": "Mia Scott",
+          "rating": 4,
+          "comment": "Great phone but a bit bulky."
+        },
+        {
+          "reviewer": "James Green",
+          "rating": 5,
+          "comment": "Battery life is excellent."
+        },
+        {
+          "reviewer": "Isabella Baker",
+          "rating": 3,
+          "comment": "Good phone but needs software updates."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "brand": "Oppo",
+      "model": "Find X5 Pro",
+      "release_year": 2022,
+      "specifications": {
+        "display": "6.7-inch AMOLED",
+        "processor": "Snapdragon 8 Gen 1",
+        "camera": "Triple 50 MP",
+        "battery": "5000 mAh",
+        "storage": "256GB/512GB",
+        "os": "Android 12"
+      },
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.explicit.bing.net%2Fth%3Fid%3DOIP.FVEsbI8mdmFYkdS0KOqDoAHaE8%26pid%3DApi&f=1&ipt=3fb8c6121c2851d51b92c27ad42fb30f431fa59f7d455b152c1f110bd899016d&ipo=images",
+      "description": "The Oppo Find X5 Pro features a large AMOLED display, high-end specifications, and a premium build.",
+      "reviews": [
+        {
+          "reviewer": "Lucas Adams",
+          "rating": 5,
+          "comment": "Fantastic performance and build quality."
+        },
+        {
+          "reviewer": "Ava Mitchell",
+          "rating": 4,
+          "comment": "Great phone but ColorOS is not my favorite."
+        },
+        {
+          "reviewer": "Mason Carter",
+          "rating": 5,
+          "comment": "Battery life is great."
+        },
+        {
+          "reviewer": "Sophia Evans",
+          "rating": 3,
+          "comment": "Good phone but a bit heavy."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "brand": "Huawei",
+      "model": "Mate 50 Pro",
+      "release_year": 2022,
+      "specifications": {
+        "display": "6.74-inch OLED",
+        "processor": "Kirin 9000",
+        "camera": "Triple 50 MP",
+        "battery": "5000 mAh",
+        "storage": "256GB/512GB",
+        "os": "HarmonyOS 2.0"
+      },
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.Puq02mOsvckqsmNP4CJK4QHaDq%26pid%3DApi&f=1&ipt=4364b4e4f284feacdaec756fa390ecc5cd8a8e48c67de23386ef4d5fe1fad937&ipo=images",
+      "description": "The Huawei Mate 50 Pro offers top-tier performance with the Kirin 9000 chip and a stunning OLED display.",
+      "reviews": [
+        {
+          "reviewer": "Daniel Turner",
+          "rating": 5,
+          "comment": "Excellent phone with great features."
+        },
+        {
+          "reviewer": "Lily Hill",
+          "rating": 4,
+          "comment": "Amazing display and performance."
+        },
+        {
+          "reviewer": "Logan Allen",
+          "rating": 5,
+          "comment": "Battery life is impressive."
+        },
+        {
+          "reviewer": "Grace Harris",
+          "rating": 3,
+          "comment": "Good phone but lacks Google services."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "brand": "Motorola",
+      "model": "Edge 30 Pro",
+      "release_year": 2022,
+      "specifications": {
+        "display": "6.7-inch OLED",
+        "processor": "Snapdragon 8 Gen 1",
+        "camera": "Triple 50 MP",
+        "battery": "4800 mAh",
+        "storage": "128GB/256GB",
+        "os": "Android 12"
+      },
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.digit.in%2Fdefault%2Fc30ac0cc90e3d15e065022c1fcca0c1f80d08c93.jpeg&f=1&nofb=1&ipt=eaca163929814176269a07e0b34b1f3d3ca97231ed98f20c597c27859f6187f9&ipo=images",
+      "description": "The Motorola Edge 30 Pro offers a powerful Snapdragon processor, high-quality display, and a versatile camera setup.",
+      "reviews": [
+        {
+          "reviewer": "Carter Martinez",
+          "rating": 5,
+          "comment": "Great performance and camera."
+        },
+        {
+          "reviewer": "Emily Roberts",
+          "rating": 4,
+          "comment": "Good phone but could use better software."
+        },
+        {
+          "reviewer": "Jack White",
+          "rating": 5,
+          "comment": "Battery life is very good."
+        },
+        {
+          "reviewer": "Ella Thompson",
+          "rating": 3,
+          "comment": "Good phone but a bit heavy."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "brand": "LG",
+      "model": "Velvet 2 Pro",
+      "release_year": 2022,
+      "specifications": {
+        "display": "6.8-inch OLED",
+        "processor": "Snapdragon 888",
+        "camera": "Triple 48 MP",
+        "battery": "4500 mAh",
+        "storage": "128GB/256GB",
+        "os": "Android 11"
+      },
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.Mo2H72iMiBKZUhWkRMzyrwHaEK%26pid%3DApi&f=1&ipt=eb72726e721d611cca5fed39aa1c7bbf39085d43a5688fa5297e809b1d3d659a&ipo=images",
+      "description": "The LG Velvet 2 Pro features a large OLED display, a powerful Snapdragon 888 chip, and an elegant design.",
+      "reviews": [
+        {
+          "reviewer": "David Garcia",
+          "rating": 5,
+          "comment": "Excellent design and performance."
+        },
+        {
+          "reviewer": "Avery Martinez",
+          "rating": 4,
+          "comment": "Great phone but software needs improvement."
+        },
+        {
+          "reviewer": "Christopher Anderson",
+          "rating": 5,
+          "comment": "Battery life is impressive."
+        },
+        {
+          "reviewer": "Aria Lewis",
+          "rating": 3,
+          "comment": "Good phone but lacks updates."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "brand": "Apple",
+      "model": "iPhone 13",
+      "release_year": 2021,
+      "specifications": {
+        "display": "6.1-inch OLED",
+        "processor": "A15 Bionic",
+        "camera": "Dual 12 MP",
+        "battery": "3240 mAh",
+        "storage": "128GB/256GB/512GB",
+        "os": "iOS 15"
+      },
+      "image": "https://images.unsplash.com/photo-1636032204208-fdd9d7b11394?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "description": "The iPhone 13 delivers excellent performance with the A15 Bionic chip, a bright OLED display, and a dual-camera system.",
+      "reviews": [
+        {
+          "reviewer": "Madison Johnson",
+          "rating": 5,
+          "comment": "Amazing performance and camera quality."
+        },
+        {
+          "reviewer": "Liam Miller",
+          "rating": 4,
+          "comment": "Great phone but battery life could be better."
+        },
+        {
+          "reviewer": "Chloe Taylor",
+          "rating": 5,
+          "comment": "The best phone I've ever owned."
+        },
+        {
+          "reviewer": "Jacob Wilson",
+          "rating": 3,
+          "comment": "Good phone but too expensive."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "brand": "Samsung",
+      "model": "Galaxy Z Fold 4",
+      "release_year": 2023,
+      "specifications": {
+        "display": "7.6-inch Foldable AMOLED",
+        "processor": "Snapdragon 8 Gen 2",
+        "camera": "Triple 50 MP",
+        "battery": "4400 mAh",
+        "storage": "256GB/512GB",
+        "os": "Android 13"
+      },
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.RCLaIkQ-7MHi1RyAcl4DsQHaEK%26pid%3DApi&f=1&ipt=eed5f1760a291ee8ccff06f0580d71bd222724081bde04a91293baf700144e64&ipo=images",
+      "description": "The Galaxy Z Fold 4 offers a foldable display, powerful performance, and a versatile camera setup for a unique smartphone experience.",
+      "reviews": [
+        {
+          "reviewer": "Oliver Davis",
+          "rating": 5,
+          "comment": "Incredible phone with a unique design."
+        },
+        {
+          "reviewer": "Emma Rodriguez",
+          "rating": 4,
+          "comment": "Great phone but expensive."
+        },
+        {
+          "reviewer": "Benjamin Martinez",
+          "rating": 5,
+          "comment": "Battery life is impressive."
+        },
+        {
+          "reviewer": "Harper Moore",
+          "rating": 3,
+          "comment": "Good phone but too bulky."
+        }
+      ]
+    }
+  ]
+}
